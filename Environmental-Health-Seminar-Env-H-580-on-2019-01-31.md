@@ -1,20 +1,24 @@
-# Data sharing as a new component of addressing and preparing for disease outbreaks
+# Data Sharing as a Key Component of Addressing and Preparing for Disease Outbreaks
 
-*[About](SciDataCon-2018-data-sharing.md#about)・[Abstract](SciDataCon-2018-data-sharing.md#abstract)・[Timeline](SciDataCon-2018-data-sharing.md#historic-timeline)・[Reusing data](SciDataCon-2018-data-sharing.md#reusing-data)・
-[Future?](SciDataCon-2018-data-sharing.md#future)・[Epilog](SciDataCon-2018-data-sharing.md#epilog)・[See also](SciDataCon-2018-data-sharing.md#see-also)*
+*[About](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#about)・[Abstract](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#abstract)・[Notes](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#notes)・[Historical timeline](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#historic-timeline)・[Current examples](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#examples-from-the-past-week)・[Reusing data](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#reusing-data)・
+[Future?](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#future)・[Epilog](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#epilog)・[See also](Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md#see-also)*
 
 [![Map of humanitarian support to the Great Eastern Japan Earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg/863px-Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg.png)](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) [Map of humanitarian support to the Great Eastern Japan Earthquake](https://commons.wikimedia.org/wiki/File:Map_of_humanitarian_support_to_the_Great_Eastern_Japan_Earthquake.svg) (by [NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) and [Kahusi](https://commons.wikimedia.org/wiki/User:Kahusi), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
 
 # Abstract
 
-Public health emergencies require profound and swift action at scale with limited resources, often on the basis of incomplete information and frequently under rapidly evolving circumstances. While emergency-triggered sharing goes back millennia, data sharing is a relatively new flavour under this broader theme, but one that has been receiving attention over the last few years, especially in the context of public health emergencies like the Ebola or Zika outbreaks.
+Public health emergencies require profound and swift action at scale with limited resources, often on the basis of incomplete information and frequently under rapidly evolving circumstances. While emergency-triggered sharing goes back millennia, the sharing of data and associated metadata is a relatively new flavour under this broader theme, but one that has been receiving steadily growing attention over the last few years, especially in the context of the Ebola or Zika outbreaks. By now, we have reached a point where data sharing must be considered a key component of addressing present, future and even past public health emergencies.
 
 In response, researchers, research institutions, journals, funders and others have taken steps towards increasing the sharing of data around ongoing public health emergencies and in preparation for future ones. These measures range from the adoption of open lab notebooks to modifications of policies and funding lines, and they include conversations around infrastructure and cultural change.
 
 In this contribution, I will provide an overview of different ways in which the sharing of data has played a role in public health emergencies, highlighting steps that have already been taken over the last decade as well as challenges still lying ahead.
 
 While focusing on disease outbreaks, I will draw on examples from other public health emergencies as well (e.g. earthquakes or tropical storms) and discuss their applicability in the context of infections. The examples will span the entire data life cycle of public health emergencies, from preventive measures and routine public health surveillance data to the tracking of pathogens, investigating pathogen transmission and other host-pathogen interactions, as well as diagnostics, vaccination, epidemiological modelling, data ethics and other related topics, concluding with considerations around the potential impact of preserving and sharing data, or failing at that.
+
+# Notes
+
+An Etherpad has been set up to allow for collaborative note taking and to facilitate discussion. It can be found at [https://etherpad.wikimedia.org/p/Env-H-580-on-2019-01-31](https://etherpad.wikimedia.org/p/Env-H-580-on-2019-01-31).
 
 
 # Historic timeline
@@ -251,23 +255,80 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [Final Rule for FDAAA 801 and NIH Policy on Clinical Trial Reporting](https://www.nih.gov/news-events/news-releases/hhs-take-steps-provide-more-information-about-clinical-trials-public)
   * [PCORI consultation on their data sharing policy](https://via.hypothes.is/http://www.pcori.org/sites/default/files/PCORI-Data-Access-Data-Sharing-DRAFT-for-Public-Comment-October-2016.pdf)
 
+# Examples from the past week
+
+## Fragments of Ebola Zaire virus RNA have been found in a _Miniopterus inflatus_ bat in Liberia
+
+[![_Miniopterus inflatus_, the greater long-fingered bat](https://upload.wikimedia.org/wikipedia/commons/f/fa/Miniopterus_inflatus.jpg)](https://commons.wikimedia.org/wiki/File:Miniopterus_inflatus.jpg) _Miniopterus inflatus_, the greater long-fingered bat. Drawing from Allen, J. A., Lang, H., & Chapin, J. P. (1917), [Public domain](https://commons.wikimedia.org/wiki/File:Miniopterus_inflatus.jpg). See [here](https://vizhub.healthdata.org/lbd/pandemics/) for a map of environmental suitability for Ebola virus ([more details](https://doi.org/10.7554/eLife.16412)).
+
+- press release by the Liberian Ministry of Health, announcing the finding on January 24, 2019:
+  - http://nationalphil.org/index.php/press-release/
+    - see also [multiple news pieces on the matter](https://www.ecosia.org/search?q=%22Miniopterus+inflatus%22+ebola)
+      - e.g. [doi:10.1126/science.aaw7864](https://doi.org/10.1126/science.aaw7864), [Das Virus in der Fledermaus](https://www.zeit.de/wissen/gesundheit/2019-01/ebola-westafrika-fledermaus-virus-uebertragung/komplettansicht)
+
+>  “felt that this was an important finding to bring to the public irrespective of a scientific publication” 
+
+- only fragments of the viral sequence identified so far, so precise strain is as yet uncertain
+- find was limited to a single sample out of > 11,000 that were analyzed
+- sample was taken in 2016 from a _Miniopterus inflatus_ bat in a cave in Liberia
+- that species is common across multiple countries, but Ebola virus had never been identified in it in West Africa
+- press release also highlights preventive measures and reiterates that there is no current outbreak in Liberia
+- background: Liberia was the country most affected by the 2014 Ebola outbreak, which caught their health system by surprise, despite paywalled [findings](https://web.archive.org/web/20171214145557/https://www.nytimes.com/2015/04/08/opinion/yes-we-were-warned-about-ebola.html) by foreign researchers "indicat[ing] that Liberia has to be included in the Ebola virus endemic zone" decades earlier
+
+Q: What does _Miniopterus inflatus_ feed on? 
+A: [Mostly insects](https://en.wikipedia.org/wiki/Vespertilionidae).
+
+Q: Where does _Miniopterus inflatus_ live? 
+A: [In caves in various places across Sub-Saharan Africa](https://www.iucnredlist.org/species/13565/22104819).
+
+Q: Are they migrating?
+A: Some closely related and equally insectivorous bat species are, e.g. the [Natal long-fingered bat (_Miniopterus natalensis_)](https://africanbats.org/programs/bats-on-the-move/miniopterus-on-the-move/).
+
+Q: Am I allowed to embed their press release in this presentation?
+A: [It's complicated](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Liberia).
+
+
+## Cases of Norovirus amongst University of Virginia students
+
+|  |  |
+| --- | --- |
+| [![3D-printed structure of Norwalk virus](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Norwalk_Virus_%2814550066332%29.jpg/1280px-Norwalk_Virus_%2814550066332%29.jpg)](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) 3D-printed Norovirus structure. [NIH, CC BY](https://commons.wikimedia.org/wiki/File:Norwalk_Virus_(14550066332).jpg) | [![Serpentine wall at UVa](https://upload.wikimedia.org/wikipedia/commons/1/18/SerpentineWall.jpg)](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg) Serpentine wall in UVa's Academic Village. [User:Uris, Public Domain](https://commons.wikimedia.org/wiki/File:SerpentineWall.jpg)
+
+- [first brief news piece](http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population) on January 30 ([archived](https://web.archive.org/web/20190131011709/http://www.nbc29.com/story/39873768/uva-confirms-cases-of-norovirus-within-student-population)), simply informing about an email sent to UVa students, faculty and staff that alerted the community to the presence of the virus and provided some behavioral recommendations
+- [follow-up](http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva) later the same day ([archived](https://web.archive.org/web/20190131010145/http://www.nbc29.com/story/39879637/doctors-offer-protections-against-norovirus-spread-at-uva)), highlighting preventive measures as outlined in the original email
+
+- [literature overview for Norovirus](https://tools.wmflabs.org/scholia/topic/Q1142751)
+
+- [UVa-affiliated authors of publications about Norovirus](https://query.wikidata.org/#%0A%20%23defaultView%3ATable%0ASELECT%20%3Fpublication_date%20%3Fwork%20%3FworkLabel%20%3Fresearchers%0AWITH%20%7B%0A%20%20SELECT%20%0A%20%20%20%20%28MIN%28%3Fpublication_datetimes%29%20AS%20%3Fpublication_datetime%29%20%3Fwork%20%0A%20%20%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fresearcher_label%3B%20separator%3D%27%2C%20%27%29%20AS%20%3Fresearchers%29%0A%20%20WHERE%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%3Fresearcher%20%28%20wdt%3AP108%20%7C%20wdt%3AP463%20%7C%20wdt%3AP1416%20%29%20%2F%20wdt%3AP361%2a%20wd%3AQ213439%20.%0A%20%20%20%20%3Fwork%20wdt%3AP50%20%3Fresearcher%20.%0A%20%20%20%20%3Fwork%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fresearcher%20rdfs%3Alabel%20%3Fresearcher_label%20.%20FILTER%20%28LANG%28%3Fresearcher_label%29%20%3D%20%27en%27%29%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fwork%20wdt%3AP577%20%3Fpublication_datetimes%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20GROUP%20BY%20%3Fwork%0A%20%20ORDER%20BY%20DESC%28%3Fpublication_datetime%29%0A%20%20LIMIT%20200%20%20%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20%20BIND%28xsd%3Adate%28%3Fpublication_datetime%29%20AS%20%3Fpublication_date%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cda%2Cde%2Ces%2Cfr%2Cjp%2Cnl%2Cnl%2Cru%2Czh%22.%20%7D%0A%7D%0AORDER%20BY%20DESC%28%3Fpublication_date%29%0A%20LIMIT%2010)
+  - [and University of Washington?](https://query.wikidata.org/#%0A%20%23defaultView%3ATable%0ASELECT%20%3Fpublication_date%20%3Fwork%20%3FworkLabel%20%3Fresearchers%0AWITH%20%7B%0A%20%20SELECT%20%0A%20%20%20%20%28MIN%28%3Fpublication_datetimes%29%20AS%20%3Fpublication_datetime%29%20%3Fwork%20%0A%20%20%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fresearcher_label%3B%20separator%3D%27%2C%20%27%29%20AS%20%3Fresearchers%29%0A%20%20WHERE%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%3Fresearcher%20%28%20wdt%3AP108%20%7C%20wdt%3AP463%20%7C%20wdt%3AP1416%20%29%20%2F%20wdt%3AP361%2a%20wd%3AQ219563%20.%0A%20%20%20%20%3Fwork%20wdt%3AP50%20%3Fresearcher%20.%0A%20%20%20%20%3Fwork%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fresearcher%20rdfs%3Alabel%20%3Fresearcher_label%20.%20FILTER%20%28LANG%28%3Fresearcher_label%29%20%3D%20%27en%27%29%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fwork%20wdt%3AP577%20%3Fpublication_datetimes%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20GROUP%20BY%20%3Fwork%0A%20%20ORDER%20BY%20DESC%28%3Fpublication_datetime%29%0A%20%20LIMIT%20200%20%20%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20%20BIND%28xsd%3Adate%28%3Fpublication_datetime%29%20AS%20%3Fpublication_date%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cda%2Cde%2Ces%2Cfr%2Cjp%2Cnl%2Cnl%2Cru%2Czh%22.%20%7D%0A%7D%0AORDER%20BY%20DESC%28%3Fpublication_date%29%0A%20LIMIT%2010)
+
+- [Which institutions have affiliated researchers who published about Norovirus?](https://query.wikidata.org/#%23%20%23defaultView%3AGraph%0ASELECT%20%3Fciting_organization%20%3Fciting_organizationLabel%20%3Fcited_organization%20%3Fcited_organizationLabel%0AWITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Fciting_organization%20%3Fcited_organization%20WHERE%20%7B%0A%20%20%20%20%3Fciting_author%20%28wdt%3AP108%7Cwdt%3AP1416%29%20%3Fciting_organization%20.%20%0A%20%20%20%20%3Fcited_author%20%28wdt%3AP108%7Cwdt%3AP1416%29%20%3Fcited_organization%20.%20%0A%0A%20%20%20%20%3Fciting_work%20wdt%3AP50%20%3Fciting_author%20.%20%0A%20%20%20%20%3Fciting_work%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fcited_work%20wdt%3AP921%20wd%3AQ1142751%20%20.%0A%20%20%20%20%3Fciting_work%20wdt%3AP2860%20%3Fcited_work%20.%20%0A%20%20%20%20%3Fcited_work%20wdt%3AP50%20%3Fcited_author%20.%20%20%0A%20%20%20%20FILTER%20%28%3Fciting_work%20%21%3D%20%3Fcited_work%29%0A%20%20%20%20FILTER%20NOT%20EXISTS%20%7B%0A%20%20%20%20%20%20%3Fciting_work%20wdt%3AP50%20%3Fauthor%20.%0A%20%20%20%20%20%20%3Fciting_work%20wdt%3AP2860%20%3Fcited_work%20.%0A%20%20%20%20%20%20%3Fcited_work%20%20wdt%3AP50%20%3Fauthor%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%20%20%20%20%20%20%20%20%0A%20%7D%0A)
+
+- [CDC-affiliated authors of publications about Norovirus](https://query.wikidata.org/#%0A%20%23defaultView%3ATable%0ASELECT%20%3Fpublication_date%20%3Fwork%20%3FworkLabel%20%3Fresearchers%0AWITH%20%7B%0A%20%20SELECT%20%0A%20%20%20%20%28MIN%28%3Fpublication_datetimes%29%20AS%20%3Fpublication_datetime%29%20%3Fwork%20%0A%20%20%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fresearcher_label%3B%20separator%3D%27%2C%20%27%29%20AS%20%3Fresearchers%29%0A%20%20WHERE%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%3Fresearcher%20%28%20wdt%3AP108%20%7C%20wdt%3AP463%20%7C%20wdt%3AP1416%20%29%20%2F%20wdt%3AP361%2a%20wd%3AQ583725%20.%0A%20%20%20%20%3Fwork%20wdt%3AP50%20%3Fresearcher%20.%0A%20%20%20%20%3Fwork%20wdt%3AP921%20wd%3AQ1142751%20.%0A%20%20%20%20%3Fresearcher%20rdfs%3Alabel%20%3Fresearcher_label%20.%20FILTER%20%28LANG%28%3Fresearcher_label%29%20%3D%20%27en%27%29%0A%20%20%20%20OPTIONAL%20%7B%0A%20%20%20%20%20%20%3Fwork%20wdt%3AP577%20%3Fpublication_datetimes%20.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20GROUP%20BY%20%3Fwork%0A%20%20ORDER%20BY%20DESC%28%3Fpublication_datetime%29%0A%20%20LIMIT%20200%20%20%0A%7D%20AS%20%25results%0AWHERE%20%7B%0A%20%20INCLUDE%20%25results%0A%20%20BIND%28xsd%3Adate%28%3Fpublication_datetime%29%20AS%20%3Fpublication_date%29%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cda%2Cde%2Ces%2Cfr%2Cjp%2Cnl%2Cnl%2Cru%2Czh%22.%20%7D%0A%7D%0AORDER%20BY%20DESC%28%3Fpublication_date%29%0A%20LIMIT%20100)
+
+- [Human Sera Collected between 1979 and 2010 Possess Blocking-Antibody Titers to Pandemic GII.4 Noroviruses Isolated over Three Decades](https://doi.org/10.1128/JVI.00567-17)
+  - how to find such samples taken in the past?
+  - similar case: [1970s and ‘Patient 0’ HIV-1 genomes illuminate early HIV/AIDS history in North America](https://doi.org/10.1038/nature19827)
+    - reused blood samples to sequence patient genomes to analyze the spread of HIV
 
 ## Reusing data
+
+* [National Outbreak Recording System](https://www.cdc.gov/nors/index.html) &mdash; collates data pertaining to various outbreaks and makes it searchable, which is helpful when attending to ongoing or future outbreaks, or even potential ones
 * Zika data reuse
   - [Country-level surveillance data aggregated by CDC](https://github.com/cdcepi/zika)
     - [Corresponding dashboard](https://github.com/cdcepi/zika)
       - [Zika_Data2LinkedData](https://github.com/andrawaag/Zika_Data2LinkedData)
-* [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://dx.doi.org/10.12688/f1000research.9110.1)
+* [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](https://doi.org/10.12688/f1000research.9110.1)
   * [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
   * [Docker image](https://hub.docker.com/r/maayanlab/zika/)
     * could in principle be [run on a mobile phone](https://twitter.com/KyleCranmer/status/698240530900193282)
-* [Data-driven identification of potential Zika virus vectors](http://dx.doi.org/10.1101/077966)
+* [Data-driven identification of potential Zika virus vectors](https://doi.org/10.1101/077966)
 * [How mobile data visualization helped reduce malaria cases by 93% — Zika could be next](http://venturebeat.com/2016/08/31/mobile-data-visualization-reduce-malaria-93-zika/)
 * [Mapping the global geographic potential of Zika virus spread](http://dx.doi.org/10.1590/0074-02760160149)
 * [Dynamic forecasting of Zika epidemics using Google Trends](http://dx.doi.org/10.1101/076521)
 * many [Zika-themed hackathons](https://twitter.com/search?vertical=default&q=zikahackathon%20OR%20zikahack%20OR%20hackzika%20OR%20%28zika%20AND%20hackathon%29)
   * e.g. [University of Texas at Austin](https://github.com/cloudera-cares-austin/zika-hackathon) 
-
+* [Recent disasters](https://www.wikidata.org/wiki/Wikidata:WikiProject_Humanitarian_Wikidata/Recent_disasters) &mdash; a Wikidata-based prototype to collect structured information about disasters worldwide
 
 ### Data modeling
 
@@ -280,11 +341,11 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 ## Future?
 
-* [Make Data Sharing Routine to Prepare for Public Health Emergencies](http://dx.doi.org/10.1371/journal.pmed.1002109)
+* [Make Data Sharing Routine to Prepare for Public Health Emergencies](https://doi.org/10.1371/journal.pmed.1002109)
 * [Big Data for Infectious Disease Surveillance and Modeling](https://doi.org/10.1093/infdis/jiw400)
 * [Global correlates of emerging zoonoses: Anthropogenic, environmental, and biodiversity risk factors](https://doi.org/10.1016/j.ijid.2016.11.057)
 * [Quantifying the global attention to public health threats through Wikipedia pageview data](https://meta.wikimedia.org/wiki/Research:Quantifying_the_global_attention_to_public_health_threats_through_Wikipedia_pageview_data)
-  * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](http://dx.doi.org/10.1371/journal.pcbi.1004239.g001)
+  * [Forecasting the 2013–2014 Influenza Season Using Wikipedia](https://doi.org/10.1371/journal.pcbi.1004239.g001)
 * Data Management Plans for entire disease outbreaks and similar public health emergency scenarios
   - [Ten simple rules for machine-actionable data management plans](https://doi.org/10.5281/zenodo.1172672)
     - [some public examples of data management plans](https://riojournal.com/browse_journal_articles.php?form_name=filter_articles&sortby=0&journal_id=17&search_in_=0&section_type%5B%5D=231)
@@ -304,7 +365,36 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * Your ideas here.
 
 
-## Endangered Data Week
+# Epilog
+
+[![A fire truck being unloaded as part of humanitarian assistance after the 2009 Samoa earthquake and tsunami](https://upload.wikimedia.org/wikipedia/commons/c/c8/Samoa5_%2810718914923%29.jpg)](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg)
+[Humanity should continue the great tradition of sharing physical goods and logistics in the case of public health emergencies ...](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg) 
+
+[![The sharing of data and metadata relating to public health emergencies should be routine, not the exception.](https://upload.wikimedia.org/wikipedia/commons/6/65/To_deposit_or_not_to_deposit%2C_that_is_the_question_-_journal.pbio.1001779.g001.png)](https://commons.wikimedia.org/wiki/File:To_deposit_or_not_to_deposit,_that_is_the_question_-_journal.pbio.1001779.g001.png)
+[... and the routine sharing of data and metadata relating to public health emergencies should become part of this tradition.](https://commons.wikimedia.org/wiki/File:To_deposit_or_not_to_deposit,_that_is_the_question_-_journal.pbio.1001779.g001.png) 
+
+(Fire truck photo by [Australian Department of Foreign Affairs and Trade](https://www.flickr.com/people/106853342@N04), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en); data sharing illustration by Ainsley Seago, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en))
+
+
+# About
+
+This file hosts a guest lecture given remotely on January 31, 2019, as part of the [Environmental Health Seminar (Env H 580)](https://deohs.washington.edu/calendar/environmental-health-seminar) at the Department of Environmental & Occupational Health Sciences at the University of Washington. It continues a series of talks on the subject that was started with a [SciDataCon 2016 talk](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md). 
+
+For information about the presenter, see [here](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Biographical_sketch).
+
+# See also
+
+* [Data sharing as a new component of addressing and preparing for disease outbreaks](SciDataCon-2018-data-sharing.md) &mdash; a presentation given at [SciDataCon 2018](https://www.scidatacon.org/IDW2018/)
+* [A guided tour through citation networks around public health emergencies ](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/Talks/Workshop_on_Open_Citations_2018)
+* [Data sharing and public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md) &mdash; a presentation for [Endangered Data Week](http://endangereddataweek.org/) 2018
+  - [Data sharing in public health emergencies: A study of current policies, practices and infrastructure supporting the sharing of data to prevent and respond to epidemic and pandemic threats](https://doi.org/10.6084/m9.figshare.5897608.v1) &mdash; a paper that I was [notified](https://twitter.com/ElizabethPisani/status/968259461608562690) of in response to a tweet about this talk. 
+  - the same slides were also used for a presentation at the [Institute of Geoinformatics of the University of Heidelberg](https://www.geog.uni-heidelberg.de/gis/index.html) on June 8, 2018
+* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
+* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
+* [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
+  - including the [change log](https://github.com/Daniel-Mietchen/datascience/commits/master/emergency-response.md)
+  
+ ## Endangered Data Week
 
 * Problems
   - Link rot 
@@ -333,52 +423,4 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - [Progress so far](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5407259/)
     - [Increasing the interaction between Citizen Science and Open Science](https://ecsa.citizen-science.net/blog/citizen-science-open-science-policy-brief-out)
     - [The Global Virome Project](http://www.globalviromeproject.org/)
-
-# Epilog
-
-[![A fire truck being unloaded as part of humanitarian assistance after the 2009 Samoa earthquake and tsunami](https://upload.wikimedia.org/wikipedia/commons/c/c8/Samoa5_%2810718914923%29.jpg)](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg)
-[Humanity should continue the great tradition of sharing physical goods and logistics in the case of public health emergencies ...](https://commons.wikimedia.org/wiki/File:Samoa5_(10718914923).jpg) 
-
-[![The sharing of data and metadata relating to public health emergencies should be routine, not the exception.](https://upload.wikimedia.org/wikipedia/commons/6/65/To_deposit_or_not_to_deposit%2C_that_is_the_question_-_journal.pbio.1001779.g001.png)](https://commons.wikimedia.org/wiki/File:To_deposit_or_not_to_deposit,_that_is_the_question_-_journal.pbio.1001779.g001.png)
-[... and the routine sharing of data and metadata relating to public health emergencies should become part of this tradition.](https://commons.wikimedia.org/wiki/File:To_deposit_or_not_to_deposit,_that_is_the_question_-_journal.pbio.1001779.g001.png) 
-
-(Fire truck photo by [Australian Department of Foreign Affairs and Trade](https://www.flickr.com/people/106853342@N04), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en); data sharing illustration by Ainsley Seago, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en))
-
-
-
-# About
-
-This file hosts a contribution to [SciDataCon 2018](https://www.scidatacon.org/IDW2018/). It continues a series of talks on the subject that was started with a [SciDataCon 2016 talk](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md). For SciDataCon 2018, it was originally submitted as a separate session "Data sharing in public health emergencies", then merged into a related session [Open Data from Cell Biology of Infectious Pathogens, how far are we? ](https://www.scidatacon.org/IDW2018/sessions/262/), which was then merged further into the session [Health Databases across the African Continent: What do we have and what do we need for Sustainable Development?](https://www.scidatacon.org/IDW2018/sessions/222/) taking place on 6 November at 14:00–15:30 in rooms Serondela 1 and 2, where this contribution will be one of four oral presentations that lead to a panel discussion.
-
-For a previous version of this talk, given on February 26, 2018 in the framework of [Endangered Data Week](http://endangereddataweek.org/), see [here](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md).
-
-# Title of the original session submission
-
-Data sharing in public health emergencies
-
-# Session description for the original session submission 
-
-Humanity has a long history of sharing, especially in the wake of disasters. Data sharing is a relatively new flavour under this broader theme, but one that has been receiving attention over the last few years, especially in the context of public health emergencies like the Ebola or Zika outbreaks. 
-
-In response, researchers, research institutions, journals, funders and others have taken steps towards increasing the sharing of data around public health emergencies. These measures range from the adoption of open lab notebooks to modifications of policies and funding lines, and they include conversations around infrastructure and cultural change. 
-
-In this session, representatives from various stakeholder groups are invited to contribute their perspectives in a series of lightning talks, highlighting steps that have already been taken as well as challenges still lying ahead.
-
-Together, these talks - and the ensuing discussion - are to span the entire data life cycle of public health emergencies, from preventive measures and routine public health surveillance data to the tracking of pathogens, investigating pathogen transmission and other host-pathogen interactions, as well as diagnostics, vaccination, epidemiological modelling and other related efforts.
-
-This submission addresses all four of the high-level themes of SciDataCon 2018:
-- The digital frontiers of global science;
-- a global and inclusive data revolution;
-- applications, progress and challenges of data intensive research;
-- data infrastructure and enabling practices for international and collaborative research.
-
-A version of this abstract can be found at https://github.com/Daniel-Mietchen/events/blob/master/SciDataCon-2018-data-sharing.md .
-
-
-# See also
-
-* [Data sharing in public health emergencies: A study of current policies, practices and infrastructure supporting the sharing of data to prevent and respond to epidemic and pandemic threats](https://doi.org/10.6084/m9.figshare.5897608.v1) &mdash; a paper that I was [notified](https://twitter.com/ElizabethPisani/status/968259461608562690) of in response to a tweet about this talk. 
-* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
-* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
-* [More details on sharing in response to public health emergencies](https://github.com/Daniel-Mietchen/datascience/blob/master/emergency-response.md)
- - including the [change log](https://github.com/Daniel-Mietchen/datascience/commits/master/emergency-response.md)
+ 

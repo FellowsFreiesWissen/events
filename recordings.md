@@ -8,6 +8,20 @@ Most of my talks are in English, and for those that are not, the slides (if ther
 
 ## In English
 
+* 2019-01-18, Berlin, Workshop on Data Quality Management in Wikidata: [data quality (Q1757694) & Wikidata (Q2013) &mdash; summary (Q776754)](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/Talks/Workshop_on_Data_Quality_Management_in_Wikidata_2019)
+* 2019-01-01, Tel Aviv University, guest lecture at Wiki-Med elective course: [Wikidata & Medicine](https://www.youtube.com/watch?v=b7Ta6jWWIHI) 
+* 2018-12-18, online, VIVO Developers webinar: [Wikidata and VIVO in 2018](https://www.wikidata.org/wiki/Wikidata:WikiProject_Scholia/Talks/Wikidata_and_VIVO_in_2018)
+* 2018-11-29, Berkeley, WikiCite 2018: 
+  - [Open Science Radio, episode 139: interview with Daniel Mietchen on recapitulating WikiCite 2018](http://www.openscienceradio.org/2019/01/21/osr139-wikicite-2018-recap-with-daniel-en/)
+    - best consumed after listening to [episode 134](http://www.openscienceradio.org/2019/01/06/osr134-wikicite-2018-enjoy-the-community-en/)
+* 2018-11-27, Berkeley, WikiCite 2018: 
+  - [Building a WikiCite corpus](https://meta.wikimedia.org/wiki/WikiCite_2018/Program/Building_a_WikiCite_corpus)
+  - I was also involved in [Scholia as of November 2018](https://www.youtube.com/watch?v=4CZDJ2uHrTk&index=4&list=PLN4mEhpy3b8Sayl_QsSjpa8H1wqo82hxr&t=3m12s) ([slides](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/7125/pdf/imm7125.pdf)) but did not present it
+* 2018-10-12, Montreal, Force 2018: [A hands-on introduction to Wikidata and WikiCite (with Dario Taraborelli)](https://www.youtube.com/watch?v=uTu1Y6nRn-Y) ([slides](https://doi.org/10.6084/m9.figshare.7201469))
+* 2018-10-11, Montreal, Force 2018:
+  - [Wikidata, Wikibase, & a federated ecosystem of knowledge (with Dario Taraborelli)](https://www.youtube.com/watch?v=Bdwg168elaE) ([slides](https://doi.org/10.6084/m9.figshare.7195358))
+  - [How Europe can make FAIR data a reality: An Action Plan](https://www.youtube.com/watch?v=8p6Hxm-cty0) ([slides](https://doi.org/10.5281/zenodo.1299251))
+* 2018-09-04, Bologna, Workshop on Open Citations: [A guided tour through citation networks around public health emergencies](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/Talks/Workshop_on_Open_Citations_2018)
 * 2018-07-29, Milano, State of the Map: [Maps based on Wikidata queries](https://m.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/State_of_the_Map_2018)
 * 2018-06-27, Washington DC, Advancing Open Science in the EU and the US: [Towards a FAIR Data ecosystem](https://youtu.be/L2tTHaH0ZsQ) (pre-recorded version; life version was [recorded as well](https://www.youtube.com/watch?v=-9lVolRMhGY#t=8m), albeit with some technical difficulties) &mdash; [slides](https://doi.org/10.5281/zenodo.1299251)
 * 2018-03-12, Berlin, Open Science Barcamp: 
@@ -19,6 +33,7 @@ Most of my talks are in English, and for those that are not, the slides (if ther
   - [The role of Wikidata in emergency response](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/The_role_of_Wikidata_in_emergency_response)
   - [WikiCite: Wikidata as a structured repository of bibliographic data](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/WikiCite:_Wikidata_as_a_structured_repository_of_bibliographic_data)
   - [Expanding classical Wikimedia outreach efforts to include Wikidata](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Expanding_classical_Wikimedia_outreach_efforts_to_include_Wikidata)
+* 2017-08-25, New Yor City, JupyterCon 2017: [Post-publication peer review of Jupyter Notebooks referenced in articles on PubMed Central](https://www.youtube.com/watch?v=Via7gBrjxHI) ([slides](https://github.com/Daniel-Mietchen/events/blob/master/JupyterCon-2017.md))
 * 2017-08-17, Potsdam (New York), Offline Wikipedia Hackathon: [Introduction(s) to Wikidata, with a focus on offline usage](https://www.wikidata.org/wiki/User:Daniel_Mietchen/FSCI_2017#Introductions_to_Wikidata)
 * 2017-08-10, Montreal, Wikimania: [Wikimedia response to emergenies](https://commons.wikimedia.org/wiki/File:Wikimania_2017_Daniel_Mietchen_crisis_response.webm) (more like an elevator pitch)
 * 2017-05-23, Vienna: [The Zika corpus on Wikidata](https://www.wikidata.org/wiki/User:Daniel_Mietchen/WikiCite_2017) (see also [this interview on the topic](http://www.openscienceradio.de/2017/05/30/osr084-wikicite-2017-interview-with-daniel-mietchen-en/))
